@@ -33,7 +33,6 @@ Dataset used:
 
 > **ECG Images Dataset of Cardiac Patients (Kaggle)**  
 > 3,951 labeled ECG images across 4 diagnostic categories.  
-:contentReference[oaicite:1]{index=1}
 
 Classes include:
 
