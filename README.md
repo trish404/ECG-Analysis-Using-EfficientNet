@@ -4,7 +4,6 @@ Deep Learning-Based Myocardial Infarction Detection with Explainability
 > Research implementation for the paper:  
 > **ECG Analysis for Myocardial Infarction Detection via Deep Learning**  
 > 📄 Procedia Computer Science, International Conference on Machine Learning and Data Engineering, 2025  
-> :contentReference[oaicite:0]{index=0}  
 
 ---
 
